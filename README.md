@@ -1,6 +1,6 @@
 ## Welcome to Baoquan Zhang's Home Pages
 
 
-Homepage: https://zhangbq-research.github.io
+Homepage: https://daikuai-research.github.io
 
-Email: baoquanzhang@yeah.net or zhangbaoquan@stu.hit.edu.cn
+Email: daikuai_hit@163.com
